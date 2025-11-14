@@ -29,7 +29,7 @@ I'm Sofia, a student at Brigham Young University-Idaho and an artist with an int
 - [Art Website](https://sofia0831.github.io/wdd131/project/kamalayistudio.html) I made as a project but also for my friends!
 
 ## Github Statistics ( ‵▽′)ψ
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sofia0831)](https://github.com/Sofia0831/github-readme-stats)
+![Sofia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sofia0831&show_icons=true&theme=merko)
   
 ## Find me at:
 - [My LinkedIn profile](https://www.linkedin.com/in/sf-pantas/)
