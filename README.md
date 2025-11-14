@@ -31,3 +31,5 @@ I'm Sofia, a student at Brigham Young University-Idaho and an artist with an int
 ## Find me at:
 - [My LinkedIn profile](https://www.linkedin.com/in/sf-pantas/)
 - [My Twitter profile](https://x.com/Puddinhead_art)
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! ( ﾟдﾟ)つ Bye
